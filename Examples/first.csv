@@ -1,0 +1,28 @@
+fromDate,toDate,totalSessions,totalDuration_ms,averageDuration_ms,totalEngagement_ms,averageEngagement_ms,totalPageViews,averagePageViews,mostSeenCountry,mostSeenBrowser,mostSeenDevice,mostSeenSystem,mostSeenReferrer,mostSeenEntryPage,mostSeenTag,mostSeenVariable
+2020-5-2,2020-5-8,0,0,0,0,0,0,0,None=0,None=0,None=0,None=0,None=0,None=0,None=0,None=0
+2020-5-9,2020-5-15,15,3293164,219544.267,689375,45958.333,33,2.2,dk=15,Chrome=9,Desktop=15,Windows=15,None=15,/=15,mouse-out=14,None=0
+2020-5-16,2020-5-22,3,3374176,1124725.333,334932,111644,5,1.667,dk=3,Chrome=2,Desktop=3,Windows=2,None=3,/=3,mouse-out=3,None=0
+2020-5-23,2020-5-29,8,8150775,1018846.875,786462,98307.75,17,2.125,dk=8,Chrome=5,Desktop=8,Windows=8,None=8,/=8,mouse-out=7,None=0
+2020-5-30,2020-6-5,2,23481,11740.5,13310,6655,2,1,dk=2,Chromium=2,Desktop=2,Linux=2,None=2,/=2,mouse-out=1,None=0
+2020-6-6,2020-6-12,2,314254,157127,62543,31271.5,3,1.5,dk=2,Chromium=2,Desktop=2,Linux=2,None=2,/=2,mouse-out=2,None=0
+2020-6-13,2020-6-19,15,16279743,1085316.2,692200,46146.667,49,3.267,dk=15,Chrome=11,Desktop=15,Windows=13,None=15,/=15,mouse-out=12,None=0
+2020-6-20,2020-6-26,4,1918566,479641.5,193440,48360,10,2.5,dk=4,Chrome=3,Desktop=4,Windows=4,None=4,Hello Test=3,mouse-out=3,None=0
+2020-6-27,2020-7-3,7,3236897,462413.857,630282,90040.286,21,3,dk=6,Chrome=3,Desktop=6,Linux=3,None=7,/=7,mouse-out=5,None=0
+2020-7-4,2020-7-10,5,423956,84791.2,66492,13298.4,9,1.8,dk=5,Chromium=4,Desktop=4,Linux=4,None=5,/=5,mouse-out=3,key=value=1
+2020-7-11,2020-7-17,5,1366164,273232.8,291498,58299.6,28,5.6,dk=5,Chromium=2,Desktop=4,Linux=3,None=4,/=5,mouse-out=3,None=0
+2020-7-18,2020-7-24,9,2752552,305839.111,222236,24692.889,18,2,dk=9,Safari mobile=5,Phone=5,iOS=5,None=9,/=9,mouse-out=4,None=0
+2020-7-25,2020-7-31,0,0,0,0,0,0,0,None=0,None=0,None=0,None=0,None=0,None=0,None=0,None=0
+2020-8-1,2020-8-7,0,0,0,0,0,0,0,None=0,None=0,None=0,None=0,None=0,None=0,None=0,None=0
+2020-8-8,2020-8-14,17,4846121,285065.941,702227,41307.471,57,3.353,dk=16,Chrome=15,Desktop=16,Linux=16,None=17,/=17,seen=17,None=0
+2020-8-15,2020-8-21,0,0,0,0,0,0,0,None=0,None=0,None=0,None=0,None=0,None=0,None=0,None=0
+2020-8-22,2020-8-28,2,1117061,558530.5,20840,10420,2,1,dk=2,Chrome=2,Desktop=2,Linux=2,None=2,/=2,mouse-out=2,None=0
+2020-8-29,2020-9-4,4,2538083,634520.75,336931,84232.75,22,5.5,dk=4,Chrome=4,Desktop=4,Linux=4,None=4,/=4,mouse-out=4,None=0
+2020-9-5,2020-9-11,0,0,0,0,0,0,0,None=0,None=0,None=0,None=0,None=0,None=0,None=0,None=0
+2020-9-12,2020-9-18,4,465538,116384.5,178887,44721.75,9,2.25,dk=4,Chrome=4,Desktop=4,Linux=4,None=4,/=4,mouse-out=4,None=0
+2020-9-19,2020-9-25,5,25773,5154.6,20105,4021,5,1,dk=5,Chrome=5,Desktop=5,Linux=5,None=5,/=3,None=0,None=0
+2020-9-26,2020-10-2,15,3936222,262414.8,305684,20378.933,20,1.333,dk=15,Chrome=15,Desktop=15,Linux=15,None=15,/=15,mouse-out=13,state=test=2
+2020-10-3,2020-10-9,2,248013,124006.5,20836,10418,3,1.5,dk=2,Chrome=2,Desktop=2,Linux=2,None=2,/=2,mouse-out=1,None=0
+2020-10-10,2020-10-16,4,2081654,520413.5,207990,51997.5,13,3.25,dk=4,Chrome=4,Desktop=4,Linux=4,None=4,/=4,mouse-out=4,None=0
+2020-10-17,2020-10-23,5,145039,29007.8,38336,7667.2,5,1,dk=5,Chrome=5,Desktop=5,Linux=5,None=5,/=5,form-interact=1,None=0
+2020-10-24,2020-10-30,0,0,0,0,0,0,0,None=0,None=0,None=0,None=0,None=0,None=0,None=0,None=0
+2020-10-31,2020-11-2,0,0,0,0,0,0,0,None=0,None=0,None=0,None=0,None=0,None=0,None=0,None=0

@@ -1,0 +1,22 @@
+fromDate,toDate,totalSessions,totalDuration_min,averageDuration_min,totalEngagement_min,averageEngagement_min,totalPageViews,averagePageViews,mostSeenCountry,mostSeenBrowser,mostSeenDevice,mostSeenSystem,mostSeenReferrer,mostSeenEntryPage,mostSeenTag,mostSeenVariable
+2020-5-2,2020-11-2,133,942.292,7.085,96.912,0.729,331,2.489,dk=131|de=2,Chrome=94|Firefox=9|Safari mobile=7|Chromium=14|Chrome Mobile=1|IE=1|Firefox mobile=1|Safari=1|Microsoft Edge=5,Desktop=124|Tablet=2|Phone=7,Linux=77|iOS=7|Android=2|Windows=46|macOS=1,None=132|Link=1,/=128|TestingRegxCaps3=1|/hellothere=1|Hello Test=3,form-interact=15|mouse-out=99|submit=14|test=2|shared=5|bounce=1|click-rage=2|seen=20|feedback=10,someKey=someValue=1|scope=session=1|isRegular=true=1|isRegular=false=1|state=test=2|key=value=1
+2020-5-9,2020-5-15,15,54.886,3.659,11.491,0.766,33,2.2,dk=15,Chrome=9|Microsoft Edge=5|Firefox=1,Desktop=15,Windows=15,None=15,/=15,mouse-out=14|feedback=10|form-interact=10|submit=10,
+2020-5-16,2020-5-22,3,56.237,18.746,5.583,1.861,5,1.667,dk=3,Chrome=2|Safari=1,Desktop=3,Windows=2|macOS=1,None=3,/=3,mouse-out=3,
+2020-5-23,2020-5-29,8,135.847,16.981,13.107,1.638,17,2.125,dk=8,Chrome=5|Firefox=3,Desktop=8,Windows=8,None=8,/=8,mouse-out=7|shared=2,
+2020-5-30,2020-6-5,2,0.392,0.196,0.222,0.111,2,1,dk=2,Chromium=2,Desktop=2,Linux=2,None=2,/=2,mouse-out=1,
+2020-6-6,2020-6-12,2,5.238,2.619,1.042,0.521,3,1.5,dk=2,Chromium=2,Desktop=2,Linux=2,None=2,/=2,mouse-out=2,
+2020-6-13,2020-6-19,15,271.33,18.089,11.536,0.769,49,3.267,dk=15,Chromium=2|Chrome=11|Firefox=2,Desktop=15,Linux=2|Windows=13,None=15,/=15,mouse-out=12|click-rage=1,
+2020-6-20,2020-6-26,4,31.975,7.994,3.223,0.806,10,2.5,dk=4,Firefox=1|Chrome=3,Desktop=4,Windows=4,None=4,Hello Test=3|/=1,mouse-out=3,
+2020-6-27,2020-7-3,7,53.948,7.707,10.506,1.501,21,3,dk=6|de=1,Chromium=2|IE=1|Chrome=3|Firefox mobile=1,Desktop=6|Phone=1,Linux=3|Windows=3|Android=1,None=7,/=7,mouse-out=5|form-interact=2|submit=1,
+2020-7-4,2020-7-10,5,7.067,1.413,1.109,0.222,9,1.8,dk=5,Chromium=4|Safari mobile=1,Desktop=4|Tablet=1,Linux=4|iOS=1,None=5,/=5,mouse-out=3|test=1,key=value=1
+2020-7-11,2020-7-17,5,22.77,4.554,4.859,0.972,28,5.6,dk=5,Chrome=1|Chromium=2|Chrome Mobile=1|Firefox=1,Desktop=4|Phone=1,Linux=3|Android=1|Windows=1,Link=1|None=4,/=5,mouse-out=3|form-interact=1|submit=1,
+2020-7-18,2020-7-24,9,45.877,5.097,3.704,0.412,18,2,dk=9,Chrome=4|Safari mobile=5,Desktop=4|Phone=5,Linux=4|iOS=5,None=9,/=9,mouse-out=4,
+2020-8-8,2020-8-14,17,80.769,4.751,11.704,0.688,57,3.353,dk=16|de=1,Chrome=15|Firefox=1|Safari mobile=1,Desktop=16|Tablet=1,Linux=16|iOS=1,None=17,/=17,mouse-out=13|seen=17,
+2020-8-22,2020-8-28,2,18.618,9.309,0.348,0.174,2,1,dk=2,Chrome=2,Desktop=2,Linux=2,None=2,/=2,mouse-out=2|seen=2,
+2020-8-29,2020-9-4,4,42.301,10.575,5.615,1.404,22,5.5,dk=4,Chrome=4,Desktop=4,Linux=4,None=4,/=4,mouse-out=4|bounce=1|click-rage=1|shared=2|seen=1,
+2020-9-12,2020-9-18,4,7.758,1.94,2.982,0.746,9,2.25,dk=4,Chrome=4,Desktop=4,Linux=4,None=4,/=4,form-interact=1|mouse-out=4|test=1|shared=1,
+2020-9-19,2020-9-25,5,0.43,0.086,0.335,0.067,5,1,dk=5,Chrome=5,Desktop=5,Linux=5,None=5,/=3|TestingRegxCaps3=1|/hellothere=1,,
+2020-9-26,2020-10-2,15,65.605,4.374,5.094,0.34,20,1.333,dk=15,Chrome=15,Desktop=15,Linux=15,None=15,/=15,mouse-out=13,someKey=someValue=1|scope=session=1|isRegular=true=1|isRegular=false=1|state=test=2
+2020-10-3,2020-10-9,2,4.133,2.066,0.347,0.174,3,1.5,dk=2,Chrome=2,Desktop=2,Linux=2,None=2,/=2,mouse-out=1,
+2020-10-10,2020-10-16,4,34.694,8.674,3.466,0.866,13,3.25,dk=4,Chrome=4,Desktop=4,Linux=4,None=4,/=4,mouse-out=4|submit=2,
+2020-10-17,2020-10-23,5,2.417,0.483,0.639,0.128,5,1,dk=5,Chrome=5,Desktop=5,Linux=5,None=5,/=5,form-interact=1|mouse-out=1,
