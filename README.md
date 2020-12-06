@@ -67,8 +67,6 @@ __________
 
 Estimated Performance
 
-*tested in three batches of 9000, 75000 and 400000 recordings, respectively*
-
 ```
 n                          = amount of recordings
 oneRecordingParseInSec    ~= 0.0000549978
@@ -78,7 +76,7 @@ allRecordingParseInSec    ~= n * 0.0000549978
 
 However for every 10.000th recording, a new GET request have to be exercised,
 where a response can take seconds to be received. The estimated runtime,
-for n amount of recordings with an arbitrary response time of 4 seconds is:
+for n amount of recordings with an arbitrary response time of 4 seconds for each request, is:
 
 ```
 totalRunTimeInSec         ~= ((n / 10000) * 4) + (n * 0.0000549978)
