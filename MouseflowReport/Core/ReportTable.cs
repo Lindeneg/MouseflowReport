@@ -9,6 +9,10 @@ using MouseflowReport.Util;
 
 namespace MouseflowReport.Core
 {
+    /* 
+    Really stupid here, no reason at all to first convert to DataTable and then create a CSV string.
+    The CSV string can be created as the first thing from the Report itself.. duh.. will redo at some point.
+    */
     public class ReportTable
     {
         private Report        _report;
