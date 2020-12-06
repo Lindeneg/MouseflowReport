@@ -78,11 +78,9 @@ namespace MouseflowReport.Core
 
             while (tasks.Count > 0)
             {
-                foreach (Task<bool> task in tasks)
-                {
-                    if (task.IsCompleted)
-                    {
-                        tasks.Remove(task);
+                for (int i = 0; i < tasks.Count; i++) {
+                    if (tasks[i].IsCompleted) {
+                        tasks.Remove(tasks[i]);
                     }
                 }
             }
